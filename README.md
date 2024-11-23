@@ -15,5 +15,5 @@ README ProyectoIVD
 ---
 
 
-> **[Volver al repositorio](https://github.com/IsmaVargass/PruebaRepositorio.git)
+[Volver al repositorio](https://github.com/IsmaVargass/PruebaRepositorio.git)
 
