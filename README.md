@@ -1,6 +1,6 @@
 # Prueba del Repositorio
 
-README ProyectoIVD 
+Elaborado con **Markdown** 
 
 ## Contenido
 - **Hp01.html**
@@ -15,5 +15,5 @@ README ProyectoIVD
 ---
 
 
-[Volver al repositorio](https://github.com/IsmaVargass/PruebaRepositorio.git)
+**[Volver al repositorio](https://github.com/IsmaVargass/PruebaRepositorio.git)**
 
